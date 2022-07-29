@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "start": "pnpm run --parallel --stream start",
+        "clean": "rm -rf node_modules **/*/node_modules pnpm-lock.yaml"
+    } 
+}
